@@ -1,0 +1,1 @@
+minimal reproduction case for https://github.com/cloudflare/workers-sdk/issues/5636
